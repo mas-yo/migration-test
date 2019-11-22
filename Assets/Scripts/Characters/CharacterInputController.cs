@@ -373,6 +373,7 @@ public class CharacterInputController : MonoBehaviour
         }
     }
 
+    //TEST テスト てすと
     public void UseConsumable(Consumable c)
     {
 		characterCollider.audio.PlayOneShot(powerUpUseSound);
